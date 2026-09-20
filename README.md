@@ -1,6 +1,4 @@
-# 🏢 Data Warehouse and Advanced SQL Analytics  
-**Consulting and Analytics Club, IIT Guwahati**  
-📅 2025 | 👤 DANDU PRANITHA SHARON RAJ  
+# 🏢 Data Warehouse and Advanced SQL Analytics  *
 
 ---
 
